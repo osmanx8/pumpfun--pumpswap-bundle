@@ -40,4 +40,4 @@ Due to security concerns, the source code includes only pumpfun bundler part.
 
 For inquiries or specific use-case integratinos, feel free to reach out:
 
-📬 **Telegram:** [@bettyjk_0915](https://t.me/oxalpha_sol)  
+📬 **Telegram:** [https://t.me/oxalpha_sol)  
